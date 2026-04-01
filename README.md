@@ -20,12 +20,8 @@ Simple REST API built with Go that provides content recommendations.
 go run main.go
 
 🔗 Endpoint
-
 GET /recommend?category=ai
-
 Example:
 http://localhost:8080/recommend?category=ai
-
 👩‍💻 Author
-
 Patricia Santoro
